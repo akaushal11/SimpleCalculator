@@ -1,5 +1,5 @@
-# calculator.py
 def add(a, b):
+    print("Calculating sum")
     return a + b
 
 def subtract(a, b):
